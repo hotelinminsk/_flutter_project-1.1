@@ -1,0 +1,1 @@
+ /home/kyra/StudioProjects/untitled/.dart_tool/flutter_build/645c52b94d9ce2c6b65376daa89e35e2/native_assets.yaml: 
